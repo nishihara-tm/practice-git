@@ -1,3 +1,5 @@
 これはエラーテキストなので消えるはず
 
 bug fix
+
+new error was found
